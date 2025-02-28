@@ -1,5 +1,5 @@
 
-import { Heart, Child, Users } from 'lucide-react';
+import { Heart, Baby, Users } from 'lucide-react';
 
 const ServicesSection = () => {
   return (
@@ -31,7 +31,7 @@ const ServicesSection = () => {
           
           <div className="rounded-xl p-8 border border-gray-100 bg-white shadow-sm hover:shadow-md transition-all duration-300 hover:-translate-y-1">
             <div className="w-16 h-16 rounded-2xl bg-teal-100 flex items-center justify-center mb-6">
-              <Child size={30} className="text-primary" />
+              <Baby size={30} className="text-primary" />
             </div>
             <h3 className="text-xl font-bold text-gray-800 mb-4">Child Care Support</h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
